@@ -1,6 +1,4 @@
-Certainly! Below is an example of a `README.md` file that you can use for your **Image Recognition Web App** project. This README provides step-by-step instructions on how someone can set up and run the project, along with dependencies and how to use it.
 
----
 
 # Image Recognition Web App
 

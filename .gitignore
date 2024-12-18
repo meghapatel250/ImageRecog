@@ -1,0 +1,18 @@
+# Ignore virtual environments
+venv/
+image_recognition_env/
+
+# Ignore Python cache files
+*.pyc
+__pycache__/
+
+# Ignore TensorFlow or other large library binaries
+*.so
+*.dll
+
+# Ignore system files
+.DS_Store
+.idea/
+.vscode/
+*.log
+__pycache__/
